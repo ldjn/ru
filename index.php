@@ -1,1 +1,5 @@
-<? phpinfo();
+<?
+
+echo "test branch";
+
+phpinfo();
